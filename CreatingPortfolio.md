@@ -1,7 +1,7 @@
 # Creating a Portfolio Website:
 What I'm thinking we can do is create multiple pages and link them to one another use a nav bar located in  the header.<br>
 After creating all the files and writing the home page, it looks like:
-`
+<pre><code>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,4 +36,5 @@ After creating all the files and writing the home page, it looks like:
     </footer>
 </body>
 </html>
-`
+</code></pre>
+
