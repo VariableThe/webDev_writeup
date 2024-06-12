@@ -555,6 +555,6 @@ footer {
 ```
 It's done and the form is working properly.<br>
 I'm done for now, if I add something after that, I'll update it here.<br>
-
+I've updated the button width to 27%, so that it looks better.<br>
 
 
