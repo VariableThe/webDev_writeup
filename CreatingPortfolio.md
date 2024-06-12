@@ -556,5 +556,7 @@ footer {
 It's done and the form is working properly.<br>
 I'm done for now, if I add something after that, I'll update it here.<br>
 I've updated the button width to 27%, so that it looks better.<br>
+Ok, I made a few update, removed the buttons and added a drop down menu to replace it in order to increase the responsiveness.<br>
+
 
 
